@@ -1,0 +1,14 @@
+D:\3 sem\z2\bin\Debug\net8.0\z2.exe
+D:\3 sem\z2\bin\Debug\net8.0\z2.deps.json
+D:\3 sem\z2\bin\Debug\net8.0\z2.runtimeconfig.json
+D:\3 sem\z2\bin\Debug\net8.0\z2.dll
+D:\3 sem\z2\bin\Debug\net8.0\z2.pdb
+D:\3 sem\z2\obj\Debug\net8.0\z2.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 sem\z2\obj\Debug\net8.0\z2.AssemblyInfoInputs.cache
+D:\3 sem\z2\obj\Debug\net8.0\z2.AssemblyInfo.cs
+D:\3 sem\z2\obj\Debug\net8.0\z2.csproj.CoreCompileInputs.cache
+D:\3 sem\z2\obj\Debug\net8.0\z2.dll
+D:\3 sem\z2\obj\Debug\net8.0\refint\z2.dll
+D:\3 sem\z2\obj\Debug\net8.0\z2.pdb
+D:\3 sem\z2\obj\Debug\net8.0\z2.genruntimeconfig.cache
+D:\3 sem\z2\obj\Debug\net8.0\ref\z2.dll
